@@ -4,7 +4,7 @@ A list of strikes and protests within Australia.
 ## Updated: 12/12/2020
 
 ### Currently Active
-* (12/12/2020 - N/A); Organisation/Union: [XR](https://rebellion.global/); Title: [People's 9th blockade of the worlds largest coal port](https://newcastleweekly.com.au/extinction-rebellion-plans-newcastle-port-blockade/); At: Newcastle, NSW; Turnout: Unknown.
+* (12/12/2020 - N/A); Organisation/Union: [XR](https://rebellion.global/); Title: [Extinction Rebellion plans Newcastle port blockade](https://newcastleweekly.com.au/extinction-rebellion-plans-newcastle-port-blockade/); At: Newcastle, NSW; Turnout: Unknown.
 
 ### Upcoming
 * [Event Title 2](https://github.com/SpaceManSparrow/OrganiseAustralia)
